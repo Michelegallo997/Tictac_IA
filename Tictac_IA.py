@@ -98,4 +98,3 @@ while True:
         turno += 1
     else:
         print("Movimiento inválido. Inténtalo de nuevo")
-11
